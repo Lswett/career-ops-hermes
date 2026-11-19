@@ -1,0 +1,66 @@
+ABOUT US:
+Auto Hauler Exchange (AHX) is an innovative startup revolutionizing the auto transport and logistics industry. Our platform connects vehicle shippers and carriers to streamline vehicle transportation with real-time tracking, transparent pricing, and an easy-to-use interface. As we continue to grow, we are looking to add another experienced 
+Full-Stack Engineer
+ to our software development team in Rochester, MI.
+JOB DESCRIPTION:
+As a key member of the software development team, our team of Full Stack Engineers build our cutting-edge web applications from start to finish, working on the front-end, back-end, and infrastructure. Our Full Stack Engineers are responsible for the entire project, from conception to deployment.
+RESPONSIBILITIES (include, but are not limited to):
+Build upon our proprietary platform and integrate into a headless commerce system.
+Work with development teams and product managers to ideate software solutions.
+Work with stakeholders during implementation for testing, debugging, support, and maintenance.
+Write effective and intuitive APIs for client, customer, and partner developers.
+Develop and manage well-functioning databases and applications.
+Design client and server architecture for cloud deployment.
+Build front-ends with intuitive appealing visual design.
+Build mobile responsive user experiences.
+Test software to ensure responsiveness and efficiency.
+Troubleshoot, debug, and upgrade software.
+Create security and data protection settings.
+Continuously focus on leveraging AI in order to boost productivity, improve code quality, enhance security, and create more adaptive and innovative applications.
+ABOUT YOU:
+A minimum of 5 years of proven experience as a Full Stack Developer.
+A bachelor's degree in Computer Science or a relevant field.
+Excellent communication and teamwork skills.
+Great attention to detail and excellent organization skills.
+Knowledge of front-end languages and libraries (e.g. HTML/ CSS, JavaScript, Next.js, React, Tailwind, Radix).
+Knowledge of back-end languages and libraries (e.g. Python, Node.js, Rest, GraphQL).
+Experience with Cloud Platforms (e.g. AWS, GCP, or Azure).
+Experience leveraging AI tools such as GitHub Copilot, Codeium, and Tabnine.
+Familiarity with databases (e.g. MySQL, Postgres).
+Experience developing mobile apps (e.g. React Native, iOS - Swift, Android).
+Experience with UX/UI product or design tools (e.g. Figma > CSS / HTML or Mobile).
+Hands-on experience standing up BigQuery as an analytics platform: dataset and table design, partitioning and clustering, streaming and batch ingestion, and query cost controls.
+Experience with the GCP data stack: Datastream or comparable replication, Pub/Sub subscriptions into BigQuery, Dataform or dbt for transformation, and a catalogue and lineage tool such as Dataplex.
+Experience implementing warehouse governance: row-level or column-level security, IAM scoping, retention and deletion paths, and quotas set before a query surface opens up.
+JOB TYPE: 
+Full-time
+BENEFITS:
+401(k) matching
+Dental insurance
+Flexible schedule
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Vision insurance
+SCHEDULE:
+8 hour shift
+Weekends as needed
+WORK LOCATION: 
+Rochester, MI / Hybrid
+Why Join Auto Hauler Exchange?
+Impact:
+ Be a key member of a fast-growing startup where your work will directly impact the business and shape the future of the auto transport industry.
+Growth:
+ We’re scaling rapidly, and this role offers significant opportunities for career growth and skill development.
+Collaborative Culture:
+ Work in a dynamic, fast-paced, and flexible environment with a passionate team committed to innovation and excellence.
+How to Apply:
+If you're ready to take on a diverse and exciting role in a fast-paced startup, we'd love to hear from you! Please submit your resume, along with a cover letter detailing your relevant experience and why you're interested in joining Auto Hauler Exchange.
+Auto Hauler Exchange is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+        
+        
+    
+    
+    
+    <button class="

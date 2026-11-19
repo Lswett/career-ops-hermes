@@ -1,0 +1,54 @@
+RELOCATION ASSISTANCE: Relocation assistance may be available
+CLEARANCE REQUIRED FOR START: No
+CLEARANCE TYPE: Top Secret
+TRAVEL: Yes, 10% of the Time
+Description
+At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.
+Northrop Grumman Defense Systems (NGDS), Beavercreek Ohio, Is Seeking a Software Engineer. Successful Candidates Will Demonstrate a Broad Skill Set Balanced Between Interpersonal And Technical Capabilities Achieving Sustainable Quality Products. They Will Have a Track Record As An Effective Communicator And Problem Solver Who Is Able To Develop And Maintain Good Working Relationships With Internal And External Stakeholders. The Selected Candidates Will Participate In The Entire Software Development Lifecycle With a Concentration In Software Engineering. They Will Implement Solutions In a Web-based Environment And Integrate Them Into a Microservice Cloud-based Architecture. The Candidates Will Work Closely With Other Software Engineers Accomplishing The Following
+Support team in completing necessary software on schedule
+Complete work independently and as a part of an Agile team
+Solve complex problems through innovative and creative solutions
+Collaborate with software designers and/or software engineers in the planning, design, development, and utilization of software systems
+Regularly demonstrate progress to customers
+Basic Qualifications
+Bachelor’s degree in Computer Science or related STEM degree with 2 years’ experience OR a master’s degree with 0 years’ experience OR a high school diploma/equivalent with 6 years’ experience
+Full Stack Web Development programming experience
+Working knowledge and experience in the Agile development processes
+Strong interpersonal skills to communicate effectively with small technical teams
+Ability to prioritize and adjust tasks to accomplish project results
+Ability to comprehend and analyze complex problems and develop solutions
+U.S. Citizenship with the ability to obtain a TS/SCI security clearance
+Preferred Qualifications
+Experience with web development frameworks such as Django, React, or Angular
+Experience with Databases: Relational, Graph, or Document
+Experience with:
+Docker
+C#/Java
+JavaScript
+TypeScript
+React
+MongoDB
+HTML
+CSS
+Python
+Geospatial
+Experience with microservices, swagger and API definitions
+Experience with Spring Boot (Java) APIs
+Demonstrated use of configuration management (Git, Bitbucket)
+Experience working with project management (Jira, Confluence)
+DevOps / DevSecOps experience
+Continuous Integration (CI) / Continuous Deployment (CD)
+Software Security Tools
+Claire / Trivy
+SonarQube
+Primary Level Salary Range: $83,400.00 - $125,200.00
+The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.
+Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.
+The application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.
+Northrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.
+        
+        
+    
+    
+    
+    <button class="

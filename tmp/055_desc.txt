@@ -1,0 +1,55 @@
+WEB DEVELOPER II
+Job Summary
+Designs and develops Isuzu’s suite of web properties related to IGSS sales and service. Collaborates with team members to design features, review code, and resolve problems. 
+The ideal candidate will be located in the Lake Orion, MI area.
+Principal Duties & Responsibilities
+Front-end development: Creates and maintains testable user-friendly web interfaces using a modern toolset that includes React and Angular. Ensures cross-browser compatibility, automated tests and mobile responsiveness.
+Back-end development: Develops and maintains server-side logic using PHP (Laravel). Designs and implements RESTful APIs and services and ensures features have thorough test coverage.
+Code Review and Testing: Conducts code reviews to maintain high code quality and adherence to best practices. Implements and maintains automated testing frameworks and performs manual testing when needed.
+DevOps: Assists with cloud infrastructure and deployment processes using tools like Azure, Docker, and Kubernetes. Oversees automated deployment pipelines and ensures adherence to CI/CD practices.
+System Architecture: Collaborates with team members to design scalable and maintainable system architectures. Aligns application architecture with business goals and requirements.
+Database Development: Designs, develops, and optimizes database schemas using MySQL. Ensures data integrity, security, and performance.
+Document and Knowledge Sharing: Creates and maintains comprehensive documentation for code, APIs, and system designs. Mentors junior developers and shares knowledge through code reviews and pair programming.
+Performs miscellaneous job-related duties as assigned.
+ORGANIZATIONAL RELATIONSHIPS
+Reports to: Manager, Web Development
+Qualifications
+EDUCATION, EXPERIENCE & TRAINING
+Bachelor’s degree in computer science or software engineering preferred or equivalent work-related experience
+Minimum 3 years of experience shipping production code to a cloud-based platform
+Experience working in both back-end and front-end environments
+Minimum 3 years of production-level experience with PHP, particularly using the Laravel framework
+Minimum 3 years of production-level experience with JavaScript, particularly using the React framework
+Experience with local testing in Docker
+Some experience with CI/CD DevOps (Terraform, Helm, Kubernetes) recommended
+KNOWLEDGE
+Strong knowledge of relational databases (such as MySQL) and NoSQL databases (such as Mongo).
+Thorough working knowledge of Agile development methodologies (e.g., Scrum, Kanban)
+Excellent working knowledge of software development tools (e.g., Git, Jira, Docker)
+Working knowledge of infrastructure in a cloud platform like Azure, AWS or GCP
+Skills & Abilities
+Thorough ability to work as part of a team; must be able to complete tasks independently
+Strong analytical skills with the desire to find the root of a problem before attempting to solve it
+Methodical and thorough abilities to ensure that all code written is thoroughly tested before being shipped
+Ability to context switch from back-end to front-end and handle multiple projects at one time
+Excellent written, verbal, interpersonal, and presentation skills
+PHYSICAL STANDARDS
+This is primarily a sedentary position in a remote or controlled office environment which requires occasional reaching, stooping, and lifting of office files, reports, or records. Rare instances requiring lifting of light objects (5 to 25 lbs.)
+PAY SCALE
+The pay scale for this position is between $80,361 and $100,451. The actual compensation will be determined based on experience and other factors permitted by law.
+Exceptional Perks That Go Beyond the Basics
+Join a workplace that invests in your well-being—mind, body, and future:
+Comprehensive Health Coverage Medical, dental, vision, and fertility benefits to support you through every stage of life
+Fertility & Family-Building Support through WIN Fertility: Includes Adoption & Surrogacy Benefits, WINMaternity, and PowerPause, offering up to $25,000 in lifetime benefits for fertility-related services such as IVF, IUI, and preconception support
+Generous Time Off Enjoy a healthy work-life balance with paid vacation, 15 paid holidays annually, sick leave, parental leave, and MTO (Miscellaneous Time Off) for volunteering or a compelling personal need
+Smart Retirement Planning Build long-term financial security with a 401(k) plan featuring a company match and an additional Annual Retirement Contribution (ARC)
+Peace of Mind Company-paid Basic Life and AD&D Insurance, as well as Travel Insurance, so you're covered wherever life takes you
+Wellness Program Access a variety of tools and resources designed to support your physical and mental well-being
+Tuition Reimbursement Pursue continued education with financial support for job-related coursework, degree programs, and professional growth
+Exclusive Employee Discounts Save on insurance, travel, entertainment, car purchases/rentals, retail purchases, and more
+        
+        
+    
+    
+    
+    <button class="

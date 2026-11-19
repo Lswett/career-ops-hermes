@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Built In Single Sign On</title>
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+    <script nonce="FO14Ty0jwqv8YkzGDh3nATPs">
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KSLQTZL');
+    </script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    
+    
+        <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css" />
+    
+    <link rel="stylesheet" href="/assets/identity-bundle.css?v=mCmt10A0bQVvqsUXErKG1b_bO7JdCJcJwa_1dKgkk8c" />
+    <!-- Begin Google Fonts -->
+    
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Abril&#x2B;Fatface&amp;family=Barlow&#x2B;Condensed:wght@400;500;600;700&amp;family=Playfair&#x2B;Display:wght@900&amp;family=Montserrat:wght@300;400;600;700;800&amp;family=Roboto:wght@500&amp;display=swap"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril&#x2B;Fatface&amp;family=Barlow&#x2B;Condensed:wght@400;500;600;700&amp;family=Playfair&#x2B;Display:wght@900&amp;family=Montserrat:wght@300;400;600;700;800&amp;family=Roboto:wght@500&amp;display=swap"/>
+    <!-- End Google Fonts -->
+</head>
+
+<body>
+
+
+
+    <div class="app">
+        <div
+    id="g_id_onload"
+    data-client_id="941473408521-r82mlse6rh2ar9loff8bgnbqtbp6inrs.apps.googleusercontent.com"
+    data-login_uri="https://accounts.builtin.com/External/OneTap"
+    data-new_user_return_url="/connect/authorize/callback?client_id=9c5154bf-6ad0-11ef-acd4-0ab54c79a979&amp;redirect_uri=https%3A%2F%2Fbuiltin.com%2Fauth%2Fsignin-oidc&amp;response_type=code&amp;scope=openid%20profile%20offline_access%20roles%20email%20api-external%20identity-mgmt&amp;code_challenge=Ko8Fk0441bFFcYmzsTX_eNjHPN9o6XjMOGiQPEG150Y&amp;code_challenge_method=S256&amp;response_mode=form_post&amp;nonce=639287346037738839.N2ZhMGMwOGMtZDRiMS00MGQ5LWFhZTktNjRhZmY4ZThlNGI4NDE4YmIwMTEtNDA2ZS00OTQ3LWEyMDYtNGE5MmRiYjAyOGZk&amp;state=CfDJ8J6xbMsdedRCpKznt9EjxW7ocdNmLZqOa2I_m-RJailSIdtFVF23tTNUFJa-ldRhw_uMOxSXvvxoxEu9GyWMvv498_kgwG-qIrNSjeY3totuBEkfoCdzP-H-_jQCbu1CtA1uGcll6rn48yDyq2-8ISLLCKrYOglb4zUMrsurLDUvJQu8tAVIT9UInqzAZIAOexG6S15Whvvd8Lk9uAt-qCZUVhoMAyKAW1b_SUhw_mxsx9INBP7cYLUZivHLz1EFMuHX9Kp3-TxrukAFnj0QOAkC2LycprsD3Ke2AImVmgPHCP7VkaQf0IaHeynHge_6A3yxCmlH2unVYKpbl-xWXqBWdfxysPXh1pOJdjfO2SLB4bTxKGy-zkwyHnUXKsX74dcpCxeYbPBNkZqTCz9LizRAt-kOdPia4N-Gk0uQ2ig4&amp;x-client-SKU=ID_NET10_0&amp;x-client-ver=8.19.2.0"
+    data-existing_user_return_url="/connect/authorize/callback?client_id=9c5154bf-6ad0-11ef-acd4-0ab54c79a979&amp;redirect_uri=https%3A%2F%2Fbuiltin.com%2Fauth%2Fsignin-oidc&amp;response_type=code&amp;scope=openid%20profile%20offline_access%20roles%20email%20api-external%20identity-mgmt&amp;code_challenge=Ko8Fk0441bFFcYmzsTX_eNjHPN9o6XjMOGiQPEG150Y&amp;code_challenge_method=S256&amp;response_mode=form_post&amp;nonce=639287346037738839.N2ZhMGMwOGMtZDRiMS00MGQ5LWFhZTktNjRhZmY4ZThlNGI4NDE4YmIwMTEtNDA2ZS00OTQ3LWEyMDYtNGE5MmRiYjAyOGZk&amp;state=CfDJ8J6xbMsdedRCpKznt9EjxW7ocdNmLZqOa2I_m-RJailSIdtFVF23tTNUFJa-ldRhw_uMOxSXvvxoxEu9GyWMvv498_kgwG-qIrNSjeY3totuBEkfoCdzP-H-_jQCbu1CtA1uGcll6rn48yDyq2-8ISLLCKrYOglb4zUMrsurLDUvJQu8tAVIT9UInqzAZIAOexG6S15Whvvd8Lk9uAt-qCZUVhoMAyKAW1b_SUhw_mxsx9INBP7cYLUZivHLz1EFMuHX9Kp3-TxrukAFnj0QOAkC2LycprsD3Ke2AImVmgPHCP7VkaQf0IaHeynHge_6A3yxCmlH2unVYKpbl-xWXqBWdfxysPXh1pOJdjfO2SLB4bTxKGy-zkwyHnUXKsX74dcpCxeYbPBNkZqTCz9LizRAt-kOdPia4N-Gk0uQ2ig4&amp;x-client-SKU=ID_NET10_0&amp;x-client-ver=8.19.2.0"
+    data-itp_support="true"
+    data-auto_select="true"
+    data-context="signin"
+    style="height: 0; position: absolute; right: 410px; top: 150px; width: 0; z-index: 1001">
+</div>
+
+<div class="login">
+    <div class="login-photo"></div>
+    <div class="login-right-panel">
+        <div class="form-wrapper">
+            <div class="form-group">
+                <div class="logo">
+                    <a href="https://builtin.com">
+                        <img src="/assets/images/bi-logo-primary.svg" alt="Built In" />
+                    </a>
+                </div>
+                <h1 class="title">Welcome Back</h1>
+                <p class="create-account-text">
+                    Don’t have an account? <a href="/Signup?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3D9c5154bf-6ad0-11ef-acd4-0ab54c79a979%26redirect_uri%3Dhttps%253A%252F%252Fbuiltin.com%252Fauth%252Fsignin-oidc%26response_type%3Dcode%26scope%3Dopenid%2520profile%2520offline_access%2520roles%2520email%2520api-external%2520identity-mgmt%26code_challenge%3DKo8Fk0441bFFcYmzsTX_eNjHPN9o6XjMOGiQPEG150Y%26code_challenge_method%3DS256%26response_mode%3Dform_post%26nonce%3D639287346037738839.N2ZhMGMwOGMtZDRiMS00MGQ5LWFhZTktNjRhZmY4ZThlNGI4NDE4YmIwMTEtNDA2ZS00OTQ3LWEyMDYtNGE5MmRiYjAyOGZk%26state%3DCfDJ8J6xbMsdedRCpKznt9EjxW7ocdNmLZqOa2I_m-RJailSIdtFVF23tTNUFJa-ldRhw_uMOxSXvvxoxEu9GyWMvv498_kgwG-qIrNSjeY3totuBEkfoCdzP-H-_jQCbu1CtA1uGcll6rn48yDyq2-8ISLLCKrYOglb4zUMrsurLDUvJQu8tAVIT9UInqzAZIAOexG6S15Whvvd8Lk9uAt-qCZUVhoMAyKAW1b_SUhw_mxsx9INBP7cYLUZivHLz1EFMuHX9Kp3-TxrukAFnj0QOAkC2LycprsD3Ke2AImVmgPHCP7VkaQf0IaHeynHge_6A3yxCmlH2unVYKpbl-xWXqBWdfxysPXh1pOJdjfO2SLB4bTxKGy-zkwyHnUXKsX74dcpCxeYbPBNkZqTCz9LizRAt-kOdPia4N-Gk0uQ2ig4%26x-client-SKU%3DID_NET10_0%26x-client-ver%3D8.19.2.0&userType=" class="create-account-link">Create Account</a>
+                </p>
+                <div class="button-container">
+                            <a class="google-button" href="/External/Challenge?provider=Google&amp;returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3D9c5154bf-6ad0-11ef-acd4-0ab54c79a979%26redirect_uri%3Dhttps%253A%252F%252Fbuiltin.com%252Fauth%252Fsignin-oidc%26response_type%3Dcode%26scope%3Dopenid%2520profile%2520offline_access%2520roles%2520email%2520api-external%2520identity-mgmt%26code_challenge%3DKo8Fk0441bFFcYmzsTX_eNjHPN9o6XjMOGiQPEG150Y%26code_challenge_method%3DS256%26response_mode%3Dform_post%26nonce%3D639287346037738839.N2ZhMGMwOGMtZDRiMS00MGQ5LWFhZTktNjRhZmY4ZThlNGI4NDE4YmIwMTEtNDA2ZS00OTQ3LWEyMDYtNGE5MmRiYjAyOGZk%26state%3DCfDJ8J6xbMsdedRCpKznt9EjxW7ocdNmLZqOa2I_m-RJailSIdtFVF23tTNUFJa-ldRhw_uMOxSXvvxoxEu9GyWMvv498_kgwG-qIrNSjeY3totuBEkfoCdzP-H-_jQCbu1CtA1uGcll6rn48yDyq2-8ISLLCKrYOglb4zUMrsurLDUvJQu8tAVIT9UInqzAZIAOexG6S15Whvvd8Lk9uAt-qCZUVhoMAyKAW1b_SUhw_mxsx9INBP7cYLUZivHLz1EFMuHX9Kp3-TxrukAFnj0QOAkC2LycprsD3Ke2AImVmgPHCP7VkaQf0IaHeynHge_6A3yxCmlH2unVYKpbl-xWXqBWdfxysPXh1pOJdjfO2SLB4bTxKGy-zkwyHnUXKsX74dcpCxeYbPBNkZqTCz9LizRAt-kOdPia4N-Gk0uQ2ig4%26x-client-SKU%3DID_NET10_0%26x-client-ver%3D8.19.2.0">
+                                <img src="/assets/images/google-logo.svg" alt="" class="google-icon" />
+                                <span>Continue with Google</span>
+                            </a>
+                </div>
+                <div class="or-text">OR</div>
+                <div class="email-wrapper">
+                    <form id="verify-token" action="/Login" method="post">
+                        <input type="hidden" id="ReturnUrl" name="ReturnUrl" value="/connect/authorize/callback?client_id=9c5154bf-6ad0-11ef-acd4-0ab54c79a979&amp;redirect_uri=https%3A%2F%2Fbuiltin.com%2Fauth%2Fsignin-oidc&amp;response_type=code&amp;scope=openid%20profile%20offline_access%20roles%20email%20api-external%20identity-mgmt&amp;code_challenge=Ko8Fk0441bFFcYmzsTX_eNjHPN9o6XjMOGiQPEG150Y&amp;code_challenge_method=S256&amp;response_mode=form_post&amp;nonce=639287346037738839.N2ZhMGMwOGMtZDRiMS00MGQ5LWFhZTktNjRhZmY4ZThlNGI4NDE4YmIwMTEtNDA2ZS00OTQ3LWEyMDYtNGE5MmRiYjAyOGZk&amp;state=CfDJ8J6xbMsdedRCpKznt9EjxW7ocdNmLZqOa2I_m-RJailSIdtFVF23tTNUFJa-ldRhw_uMOxSXvvxoxEu9GyWMvv498_kgwG-qIrNSjeY3totuBEkfoCdzP-H-_jQCbu1CtA1uGcll6rn48yDyq2-8ISLLCKrYOglb4zUMrsurLDUvJQu8tAVIT9UInqzAZIAOexG6S15Whvvd8Lk9uAt-qCZUVhoMAyKAW1b_SUhw_mxsx9INBP7cYLUZivHLz1EFMuHX9Kp3-TxrukAFnj0QOAkC2LycprsD3Ke2AImVmgPHCP7VkaQf0IaHeynHge_6A3yxCmlH2unVYKpbl-xWXqBWdfxysPXh1pOJdjfO2SLB4bTxKGy-zkwyHnUXKsX74dcpCxeYbPBNkZqTCz9LizRAt-kOdPia4N-Gk0uQ2ig4&amp;x-client-SKU=ID_NET10_0&amp;x-client-ver=8.19.2.0" />
+                        <input type="hidden" id="UserType" name="UserType" value="" />
+
+                        <div class="field-label sr-only">
+                            <label for="Email">Email</label>
+                        </div>
+                        <div class="field-value">
+                            <input type="email" class="email" data-js="email" value="" placeholder="Email" data-val="true" data-val-required="An email address is required" id="Email" name="Email" />
+                            <p class="description">
+                                Enter your email and we’ll send you a one-time link.
+                            </p>
+                                <button class="submit email button g-recaptcha" data-sitekey="6LfI0zIcAAAAABCPHS5CFhuGHzmseqdVc1FYdKK_"
+                                        data-callback="onSubmitRecaptcha" data-action="login">
+                                    Login
+                                </button>
+                        </div>
+                        <span class="error-message text-danger field-validation-valid" data-js="email-validation" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8DngZ88PNP1Apk_QRYQUFyNC1kaSzXelXGuBu0V0lEjoIZHImZReDMB90oyHys4iGfMx30IoGE_UOEC4B86Z6W6tFNi57EnUvQuZ6EHJjMpF5W0I2ru-jxE1Bm3O-sxFV0IzZE_TP_Ryw5bP8Tg_YYk" /></form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+
+
+
+    <script src="https://www.google.com/recaptcha/enterprise.js?render=6LfI0zIcAAAAABCPHS5CFhuGHzmseqdVc1FYdKK_" nonce="FO14Ty0jwqv8YkzGDh3nATPs"></script>
+    <script nonce="FO14Ty0jwqv8YkzGDh3nATPs">
+        {
+            const emailInput = document.querySelector('[data-js=email]');
+            const emailValidation = document.querySelector('[data-js=email-validation]');
+
+            // Clear validation message if input has changed since initial error message rendered.
+            emailInput.addEventListener('input',
+                function() {
+                    if (emailValidation.textContent) {
+                        emailValidation.innerHTML = '';
+                    }
+                });
+        }
+
+        function onSubmitRecaptcha() {
+            document.getElementById('verify-token').submit();
+        }
+    </script>
+
+<script nonce="FO14Ty0jwqv8YkzGDh3nATPs">(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.nonce='FO14Ty0jwqv8YkzGDh3nATPs';d.innerHTML="window.__CF$cv$params={r:'a514ea0aab01bb93',t:'MTc5MzEzNzgwMw=='};var a=document.createElement('script');a.nonce='FO14Ty0jwqv8YkzGDh3nATPs';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
